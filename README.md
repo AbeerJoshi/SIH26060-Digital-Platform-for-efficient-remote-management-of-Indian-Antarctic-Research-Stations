@@ -14,7 +14,7 @@ A Digital Twin framework for Maitri and Bharati stations integrating infrastruct
 - **Srijan Sachan** - 2025UEA6538 - [@Srijan Sachan](https://github.com/SrijanSachan)
 - **Raksha Gupta** - 2025UEA6506 - [@Raksha Gupta](https://github.com/rakshagupta07)
 - **Kritika Madan** - 2025UEA6536 - [@Kritika Madan](https://github.com/kritikamadan0410-bit)
-- **Shub Arora** - 2025UCI6544 - [@Shub Arora](https://github.com/shubharora148-maker)
+- **Shubh Arora** - 2025UCI6544 - [@Shub Arora](https://github.com/shubharora148-maker)
 - **Lakshika Bangari** - 2025UEA6528 - [@Lakshika Bangari](https://github.com/laksh1kaa)
 
 ## Project Links
