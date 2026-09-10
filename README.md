@@ -1,6 +1,6 @@
 # PS: SIH26060 : Digital Platform for efficient remote management of Indian Antarctic Research Stations
 
-A Digital Twin framework for Maitri and Bharati stations integrating infrastructure, energy, logistics and environmental monitoring for efficient remote management.
+A Windows application software for Maitri and Bharati stations integrating infrastructure, energy, logistics and environmental monitoring for efficient remote management. Predicting, projecting and data forensics for all national research bases in Antarctica. 
 
 ## Team Details
 
