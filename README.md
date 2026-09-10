@@ -19,8 +19,8 @@ A Digital Twin framework for Maitri and Bharati stations integrating infrastruct
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation + EXTRA MEDIA FILES]([URL TO PPT UPLOADED TO GITHUB](https://github.com/AbeerJoshi/SIH_2025_Internal_Round_Submission_Team_AeroPace/tree/Main/Media_FILES))
-- **Video Demonstration:** [Watch Video]([YOUTUBE LINK](https://www.youtube.com/watch?v=qvIgvA_2BO8))
+- **SIH Presentation:** [Final SIH Powerpoint Presentation]([URL TO PPT UPLOADED TO GITHUB] (https://github.com/AbeerJoshi/SIH26060-Digital-Platform-for-efficient-remote-management-of-Indian-Antarctic-Research-Stations/blob/main/Media)
+- **Video Demonstration:** [Watch Video]([YOUTUBE LINK](https://www.youtube.com/watch?v=Un6AOK8iuGQ))
 
 ## Project Information
 - Project Title: HEIMDALL - A Digital Twin framework for Maitri and Bharati stations integrating infrastructure, energy, logistics and environmental monitoring for efficient remote management.
